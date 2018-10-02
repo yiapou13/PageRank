@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-//Source: https://www.ece.ucsb.edu/~hespanha/published/2018ACC_0753_MS.pdf
+//Source:https://www.ece.ucsb.edu/~hespanha/published/2018ACC_0753_MS.pdf
 
 double tolerance(double**,double*,double,int);
 
